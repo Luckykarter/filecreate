@@ -1,5 +1,5 @@
 # FileCreate
-[![PyPI](https://img.shields.io/pypi/v/FileCreate)](https://pypi.org/project/winregmgr/)
+[![PyPI](https://img.shields.io/pypi/v/FileCreate)](https://pypi.org/project/filecreate/)
 
 Provides functionality for creating a new empty file with unique name.
 
@@ -9,7 +9,7 @@ starting from 001.
 ## Install:
 
 ```bash  
-$ pip install FileCreate
+$ pip install filecreate
 ```  
 
 ## Usage Samples:
